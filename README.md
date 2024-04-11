@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
 
 ###
 
@@ -18,7 +15,7 @@
 
 ###
 
-<h1 align="center">Hello there 👋</h1>
+<h1 align="center">Hello there! I'm James Inaz 👋</h1>
 
 ###
 
@@ -26,7 +23,11 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+I'm a seasoned software engineer with a strong passion for software architecture. My expertise lies in crafting scalable and efficient software solutions by leveraging a diverse range of technologies.
+
+My proficiency extends across the entire software development lifecycle, from conceptualization to implementation and maintenance. 
+
+Outside of work, you'll find me exploring new technologies, contributing to open-source projects, and engaging in the broader tech community. I'm passionate about continuous improvement, both for myself and the teams I work with. Let's build the future of software together!
 
 ###
 
