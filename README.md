@@ -39,7 +39,7 @@ Here are some of the technologies and tools am proficient with..,
 <h4 align="left"> Languages </h4>
 
 <div align="left">
-  <img src="https://dn.jsdelivr.net/npm/devicons@1.8.0/!SVG/atom.svg" height="40" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/atom.svg" height="40" alt=""  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
