@@ -9,8 +9,9 @@
 
 ###
 
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id='https://github.com/Jamezslim90')
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jamezslim90.Jamezslim90&"  />
+</div>
 
 ###
 
