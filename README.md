@@ -38,6 +38,14 @@ Here are some of the technologies and tools am proficient with..,
 
 <h4 align="left"> Languages </h4>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+###
+
+<h4 align="left"> Tools </h4>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/atom.svg" height="40" alt=""  />
   <img width="12" />
