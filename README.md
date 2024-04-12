@@ -29,7 +29,7 @@ My proficiency extends across the entire software development lifecycle, from co
 
 Outside of work, you'll find me exploring new technologies, contributing to open-source projects, and engaging in the broader tech community. I'm passionate about continuous growth and development, both for myself and the teams I work with. 
 
-**Let's build the future of software together!**
+**Let's build the future of software together** 🚀
 
 ###
 
@@ -90,3 +90,7 @@ Here are some of the technologies and tools am proficient with..,
 </div>
 
 ###
+
+[![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Jamezslim90&show_icons=true&theme=dark)](https://github.com/Jamezslim90)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamezslim90&layout=compact&theme=dark)]
