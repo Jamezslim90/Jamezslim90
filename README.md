@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jamezslim90.Jamezslim90&"  />
 </div>
 
 ###
@@ -23,11 +23,13 @@
 
 ###
 
-I'm a seasoned software engineer with a strong passion for software architecture. My expertise lies in crafting scalable and efficient software solutions by leveraging a diverse range of technologies.
+I'm a seasoned ***software engineer*** with a strong passion for software architecture. My expertise lies in crafting scalable and efficient software solutions by leveraging a diverse range of technologies.
 
 My proficiency extends across the entire software development lifecycle, from conceptualization to implementation and maintenance. 
 
-Outside of work, you'll find me exploring new technologies, contributing to open-source projects, and engaging in the broader tech community. I'm passionate about continuous improvement, both for myself and the teams I work with. Let's build the future of software together!
+Outside of work, you'll find me exploring new technologies, contributing to open-source projects, and engaging in the broader tech community. I'm passionate about continuous growth and development, both for myself and the teams I work with. 
+
+**Let's build the future of software together!**
 
 ###
 
@@ -69,7 +71,7 @@ Here are some of the technologies and tools am proficient with..,
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Jamezslim90&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
