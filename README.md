@@ -51,11 +51,9 @@ Here are some of the technologies and tools am proficient with..,
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/terminal.svg" height="40" alt=""  />
   <img width="12" />
-   <img src="https://https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/django.svg" height="40" alt=""  />
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/django.svg" height="40" alt="django"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
   <img width="12" />
